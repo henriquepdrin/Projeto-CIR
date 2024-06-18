@@ -64,13 +64,3 @@ body{
     cursor: pointer;
 }
 
-@media (max-width: 390px){
-    .grupo1{
-        text-align: center;
-        color: aliceblue;
-        margin-top: 10px;
-        margin-left: 15px;
-        z-index: 1;
-        justify-content: center;
-    }
-}
