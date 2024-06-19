@@ -44,7 +44,7 @@ body{
     justify-content: center;
 }
 
-.b1{
+.botao1{
     border-radius: 20.5px;
     width: 239px;
     height: 64px;
@@ -52,9 +52,10 @@ body{
     font-weight: 600;
     line-height: 29px;
     cursor: pointer;
+    background-color: green;
 }
 
-.b2{
+.botao2{
     border-radius: 20.5px;
     width: 239px;
     height: 64px;
@@ -62,4 +63,5 @@ body{
     font-weight: 600;
     line-height: 29px;
     cursor: pointer;
+    background-color: red;
 }
